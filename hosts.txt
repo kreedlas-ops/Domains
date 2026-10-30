@@ -4,10 +4,6 @@
 ::1 ip6-localhost
 2a02:e00:ffec:4b8::1 ntc.party
 2a02:e00:ffec:4b8::1 ntc.party
-104.18.13.15 rutor.info
-104.18.13.15 d.rutor.info
-104.18.13.15 rutor.is
-104.18.13.15 d.rutor.is
 185.199.109.133 objects.githubusercontent.com
 185.199.109.133 raw.githubusercontent.com
 185.199.109.133 release-assets.githubusercontent.com
